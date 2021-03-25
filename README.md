@@ -1,5 +1,7 @@
-# ahk-scripts
-Some AutoHotkey scripts that I'm working on or using.
+# scripts
+Some scripts that I use
 
 ### Documentation
-https://bpetterborg.github.io/pages/ahk_scripts.html
+I think I commented them pretty well.
+
+In all seriousness, you'll be able to find them on my webpage soon.
